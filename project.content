@@ -1,0 +1,16 @@
+CalculatorSoap12\Add.xml
+CalculatorSoap12\Divide.xml
+CalculatorSoap12\Multiply.xml
+CalculatorSoap12\Subtract.xml
+CalculatorSoap\Add.xml
+CalculatorSoap\Divide.xml
+CalculatorSoap\Multiply.xml
+CalculatorSoap\Subtract.xml
+GET\%2F.xml
+POST\%2Fapi%2Fusers.xml
+REST-Service-1\%2Fapi%2Fusers%2F2.xml
+CalculatorSoap_TestSuite\Add-TestCase.xml
+CalculatorSoap_TestSuite\Divide-TestCase.xml
+CalculatorSoap_TestSuite\Multiply-TestCase.xml
+CalculatorSoap_TestSuite\Subtract-TestCase.xml
+REST-APIS\Tests.xml

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="48698a14-5a99-43fb-a7c7-c3cd2bf8de1e" name="Calc2" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="48698a14-5a99-43fb-a7c7-c3cd2bf8de1efileName">Calc2</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties><con:property><con:name>num1</con:name><con:value>20</con:value></con:property><con:property><con:name>num2</con:name><con:value>10</con:value></con:property></con:properties><con:reportParameters/></con:testSuite>
