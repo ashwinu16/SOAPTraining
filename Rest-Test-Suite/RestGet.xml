@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="c10e2837-c8fa-41a0-8c05-6b23618bf2c9" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="RestGet" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="c10e2837-c8fa-41a0-8c05-6b23618bf2c9fileName">RestGet</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:properties/><con:reportParameters/></con:testCase>

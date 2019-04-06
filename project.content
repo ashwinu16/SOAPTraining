@@ -13,4 +13,6 @@ CalculatorSoap_TestSuite\Add-TestCase.xml
 CalculatorSoap_TestSuite\Divide-TestCase.xml
 CalculatorSoap_TestSuite\Multiply-TestCase.xml
 CalculatorSoap_TestSuite\Subtract-TestCase.xml
+CalculatorSoap_TestSuite\TestCase-1.xml
 REST-APIS\Tests.xml
+Rest-Test-Suite\RestGet.xml
